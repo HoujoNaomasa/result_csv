@@ -7,7 +7,7 @@ from natsort import natsorted
 
 
 def main():
-    files = getfiles('result_txt')
+    files = getfiles('txt')
     epoch = 30
 
     columns_name = []
@@ -20,7 +20,7 @@ def main():
     # print(df_all)
 
     mode = ['train', 'test']
-    find_target = '/result_'
+    find_target = 'result_'
     for f in files:
         for m in mode:
             fp = f
@@ -81,7 +81,7 @@ def writecsv(tglist, csvname):
 
 def extract(filepath, ep, mode):
 
-    file_data = open(filepath, 'r')
+    file_data = open(filepath, 'r', encoding='utf-8')
     all_text = list(file_data)
     file_data.close()
 
