@@ -6,34 +6,8 @@ import pandas as pd
 from natsort import natsorted
 
 
-def main_old():
-    file_data = open('result_shuffle7200.txt', 'r')
-    all_text = list(file_data)
-    file_data.close()
-
-    epoch = 5
-    start = 3
-
-    all_loss = []
-    for i in range(epoch):
-        tcca = all_text[start:start+4]
-        loss = single(tcca)
-        all_loss.append(loss)
-        start += 12
-    
-    all_np = np.array(all_loss).T
-    each_min = np.array([])
-    each_min_arg = np.array([])
-    for i in all_np:
-        each_min = np.hstack([each_min, i.min()])
-        each_min_arg = np.hstack([each_min_arg, i.argmin()+1])
-    
-    print(each_min_arg)
-    print(each_min)
-
-
 def main():
-    files = getfiles()
+    files = getfiles('result_txt')
     epoch = 30
 
     columns_name = []
@@ -46,12 +20,15 @@ def main():
     # print(df_all)
 
     mode = ['train', 'test']
+    find_target = '/result_'
     for f in files:
         for m in mode:
             fp = f
             target = extract(fp, epoch, m)
             min_target = search_min(target)
-            columns_name = fp[7:-4]+m
+
+            tgidx = fp.find(find_target)
+            columns_name = fp[tgidx+len(find_target):-4]+m
 
             if m=='train':
                 df_min_train[columns_name] = min_target
@@ -60,7 +37,7 @@ def main():
     
     # print(df_min_train)
     print(df_min_test.T)
-    df_min_test.T.to_csv('sample555.csv')
+    df_min_test.T.to_csv('csv/total_min_loss_test.csv')
 
 
 
@@ -90,8 +67,8 @@ def makecsv_from_singleresult():
     filename = fp[7:-4]+'.csv'
     writecsv(target, filename)
 
-def getfiles():
-    files = glob.glob("*.txt")
+def getfiles(home):
+    files = glob.glob(home + "/*.txt")
     # print(files)
     sorted_files = natsorted(files)
     return sorted_files
