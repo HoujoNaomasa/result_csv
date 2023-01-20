@@ -1,0 +1,301 @@
+[Info] Use CUDA
+██[INFO] Total     : epoch1 @train: loss = 0.24959536459710863
+[INFO] Class     : epoch1 @train: loss = 0.17169191205563644
+[INFO] Coordinate: epoch1 @train: loss = 0.15998597469491263
+[INFO] Angle     : epoch1 @train: loss = 0.3810829577346643
+[INFO] Class     : epoch1 @train: acc  = 0.9778674768518512
+█[INFO] Total     : epoch1 @test : loss = 0.39015971877508693
+[INFO] Class     : epoch1 @test : loss = 0.31452909401721424
+[INFO] Coordinate: epoch1 @test : loss = 0.2994360241625044
+[INFO] Angle     : epoch1 @test : loss = 0.5224719819095399
+[INFO] Class     : epoch1 @test : acc  = 0.9837500000000012
+█[INFO] Total     : epoch2 @train: loss = 0.1949088499156965
+[INFO] Class     : epoch2 @train: loss = 0.0922424178570509
+[INFO] Coordinate: epoch2 @train: loss = 0.09306188739008374
+[INFO] Angle     : epoch2 @train: loss = 0.3478841530573037
+[INFO] Class     : epoch2 @train: acc  = 0.9999971064814815
+█[INFO] Total     : epoch2 @test : loss = 0.3419339283472962
+[INFO] Class     : epoch2 @test : loss = 0.33146570049640206
+[INFO] Coordinate: epoch2 @test : loss = 0.20934249367564917
+[INFO] Angle     : epoch2 @test : loss = 0.5102902640899022
+[INFO] Class     : epoch2 @test : acc  = 0.9724652777777772
+█[INFO] Total     : epoch3 @train: loss = 0.19584852621580165
+[INFO] Class     : epoch3 @train: loss = 0.0800811366022875
+[INFO] Coordinate: epoch3 @train: loss = 0.0976240308644871
+[INFO] Angle     : epoch3 @train: loss = 0.34757098373439577
+[INFO] Class     : epoch3 @train: acc  = 1.0
+█[INFO] Total     : epoch3 @test : loss = 0.6951671061002546
+[INFO] Class     : epoch3 @test : loss = 0.5967116670062145
+[INFO] Coordinate: epoch3 @test : loss = 0.6281624123040173
+[INFO] Angle     : epoch3 @test : loss = 0.8035368168519603
+[INFO] Class     : epoch3 @test : acc  = 0.9849537037037046
+█[INFO] Total     : epoch4 @train: loss = 0.19049208781992397
+[INFO] Class     : epoch4 @train: loss = 0.07103064806304044
+[INFO] Coordinate: epoch4 @train: loss = 0.09060095583813058
+[INFO] Angle     : epoch4 @train: loss = 0.34522135516421665
+[INFO] Class     : epoch4 @train: acc  = 1.0
+█[INFO] Total     : epoch4 @test : loss = 0.4115112639963627
+[INFO] Class     : epoch4 @test : loss = 0.32828835788079436
+[INFO] Coordinate: epoch4 @test : loss = 0.32866750715507403
+[INFO] Angle     : epoch4 @test : loss = 0.5358716748654843
+[INFO] Class     : epoch4 @test : acc  = 0.9705324074074071
+█[INFO] Total     : epoch5 @train: loss = 0.18905820729624895
+[INFO] Class     : epoch5 @train: loss = 0.06709630174769296
+[INFO] Coordinate: epoch5 @train: loss = 0.08912521472407711
+[INFO] Angle     : epoch5 @train: loss = 0.34446491640475063
+[INFO] Class     : epoch5 @train: acc  = 1.0
+█[INFO] Total     : epoch5 @test : loss = 0.4654368165052599
+[INFO] Class     : epoch5 @test : loss = 0.3637384175736871
+[INFO] Coordinate: epoch5 @test : loss = 0.3922839032486081
+[INFO] Angle     : epoch5 @test : loss = 0.5823025431070062
+[INFO] Class     : epoch5 @test : acc  = 0.979409722222223
+█[INFO] Total     : epoch6 @train: loss = 0.18273643118639787
+[INFO] Class     : epoch6 @train: loss = 0.05476681911127849
+[INFO] Coordinate: epoch6 @train: loss = 0.08174480762746598
+[INFO] Angle     : epoch6 @train: loss = 0.3409683564470874
+[INFO] Class     : epoch6 @train: acc  = 1.0
+█[INFO] Total     : epoch6 @test : loss = 0.3863336763034264
+[INFO] Class     : epoch6 @test : loss = 0.3083806351189398
+[INFO] Coordinate: epoch6 @test : loss = 0.2990019869369765
+[INFO] Angle     : epoch6 @test : loss = 0.5149865357412232
+[INFO] Class     : epoch6 @test : acc  = 0.9656134259259253
+█[INFO] Total     : epoch7 @train: loss = 0.17769224443990322
+[INFO] Class     : epoch7 @train: loss = 0.04679057277583828
+[INFO] Coordinate: epoch7 @train: loss = 0.07493264979372422
+[INFO] Angle     : epoch7 @train: loss = 0.33886714863280454
+[INFO] Class     : epoch7 @train: acc  = 1.0
+█[INFO] Total     : epoch7 @test : loss = 0.3447634168797069
+[INFO] Class     : epoch7 @test : loss = 0.2177435489009238
+[INFO] Coordinate: epoch7 @test : loss = 0.27579201911058693
+[INFO] Angle     : epoch7 @test : loss = 0.4627326203717126
+[INFO] Class     : epoch7 @test : acc  = 0.9871527777777789
+█[INFO] Total     : epoch8 @train: loss = 0.17635422605607246
+[INFO] Class     : epoch8 @train: loss = 0.04387326008485009
+[INFO] Coordinate: epoch8 @train: loss = 0.0730628305606337
+[INFO] Angle     : epoch8 @train: loss = 0.3385887047482861
+[INFO] Class     : epoch8 @train: acc  = 1.0
+█[INFO] Total     : epoch8 @test : loss = 0.2685386148177915
+[INFO] Class     : epoch8 @test : loss = 0.15355495596304536
+[INFO] Coordinate: epoch8 @test : loss = 0.1996545278053317
+[INFO] Angle     : epoch8 @test : loss = 0.38338962958918676
+[INFO] Class     : epoch8 @test : acc  = 0.991574074074074
+█[INFO] Total     : epoch9 @train: loss = 0.17428563233051036
+[INFO] Class     : epoch9 @train: loss = 0.040160434139478535
+[INFO] Coordinate: epoch9 @train: loss = 0.07017752126428402
+[INFO] Angle     : epoch9 @train: loss = 0.33795206393632626
+[INFO] Class     : epoch9 @train: acc  = 1.0
+█[INFO] Total     : epoch9 @test : loss = 0.3451438892632723
+[INFO] Class     : epoch9 @test : loss = 0.2536245446548694
+[INFO] Coordinate: epoch9 @test : loss = 0.27665660306811335
+[INFO] Angle     : epoch9 @test : loss = 0.4536328232122792
+[INFO] Class     : epoch9 @test : acc  = 1.0
+█[INFO] Total     : epoch10 @train: loss = 0.17217366848554877
+[INFO] Class     : epoch10 @train: loss = 0.035109788606253765
+[INFO] Coordinate: epoch10 @train: loss = 0.06765234733466059
+[INFO] Angle     : epoch10 @train: loss = 0.3370912827965286
+[INFO] Class     : epoch10 @train: acc  = 1.0
+█[INFO] Total     : epoch10 @test : loss = 0.31075600485006966
+[INFO] Class     : epoch10 @test : loss = 0.2302871942313181
+[INFO] Coordinate: epoch10 @test : loss = 0.23727435443757308
+[INFO] Angle     : epoch10 @test : loss = 0.42272526034050517
+[INFO] Class     : epoch10 @test : acc  = 1.0
+█[INFO] Total     : epoch11 @train: loss = 0.17140806877157755
+[INFO] Class     : epoch11 @train: loss = 0.034328256531928975
+[INFO] Coordinate: epoch11 @train: loss = 0.06634961305600073
+[INFO] Angle     : epoch11 @train: loss = 0.33700108408100077
+[INFO] Class     : epoch11 @train: acc  = 1.0
+█[INFO] Total     : epoch11 @test : loss = 0.2677792092578279
+[INFO] Class     : epoch11 @test : loss = 0.1669173342641443
+[INFO] Coordinate: epoch11 @test : loss = 0.1916058272226817
+[INFO] Angle     : epoch11 @test : loss = 0.3882113979094558
+[INFO] Class     : epoch11 @test : acc  = 0.9999768518518519
+█[INFO] Total     : epoch12 @train: loss = 0.17065799258028466
+[INFO] Class     : epoch12 @train: loss = 0.032223217015982505
+[INFO] Coordinate: epoch12 @train: loss = 0.06546360448571957
+[INFO] Angle     : epoch12 @train: loss = 0.3367596643873387
+[INFO] Class     : epoch12 @train: acc  = 1.0
+█[INFO] Total     : epoch12 @test : loss = 0.22244193309711086
+[INFO] Class     : epoch12 @test : loss = 0.11061905549011297
+[INFO] Coordinate: epoch12 @test : loss = 0.13231017870000666
+[INFO] Angle     : epoch12 @test : loss = 0.3630623375376066
+[INFO] Class     : epoch12 @test : acc  = 0.9999537037037037
+█[INFO] Total     : epoch13 @train: loss = 0.16996550287844406
+[INFO] Class     : epoch13 @train: loss = 0.030797863179921278
+[INFO] Coordinate: epoch13 @train: loss = 0.0644395108645161
+[INFO] Angle     : epoch13 @train: loss = 0.33666489523732
+[INFO] Class     : epoch13 @train: acc  = 1.0
+█[INFO] Total     : epoch13 @test : loss = 0.30896701361570095
+[INFO] Class     : epoch13 @test : loss = 0.2507310043709973
+[INFO] Coordinate: epoch13 @test : loss = 0.23063546251505612
+[INFO] Angle     : epoch13 @test : loss = 0.42144044381048945
+[INFO] Class     : epoch13 @test : acc  = 0.9994328703703708
+█[INFO] Total     : epoch14 @train: loss = 0.16935517416439122
+[INFO] Class     : epoch14 @train: loss = 0.028500751385258302
+[INFO] Coordinate: epoch14 @train: loss = 0.0637820024897034
+[INFO] Angle     : epoch14 @train: loss = 0.3365352370465795
+[INFO] Class     : epoch14 @train: acc  = 1.0
+█[INFO] Total     : epoch14 @test : loss = 0.49174681968159145
+[INFO] Class     : epoch14 @test : loss = 0.47579499346255844
+[INFO] Coordinate: epoch14 @test : loss = 0.3896120180375874
+[INFO] Angle     : epoch14 @test : loss = 0.6234032628436883
+[INFO] Class     : epoch14 @test : acc  = 1.0
+█[INFO] Total     : epoch15 @train: loss = 0.1688360738981929
+[INFO] Class     : epoch15 @train: loss = 0.026892206255191318
+[INFO] Coordinate: epoch15 @train: loss = 0.0631004607796462
+[INFO] Angle     : epoch15 @train: loss = 0.3364915501740244
+[INFO] Class     : epoch15 @train: acc  = 1.0
+█[INFO] Total     : epoch15 @test : loss = 0.27241661664512423
+[INFO] Class     : epoch15 @test : loss = 0.18647090945548067
+[INFO] Coordinate: epoch15 @test : loss = 0.1812443999470108
+[INFO] Angle     : epoch15 @test : loss = 0.4078683049314552
+[INFO] Class     : epoch15 @test : acc  = 0.9999537037037037
+█[INFO] Total     : epoch16 @train: loss = 0.16855865349579188
+[INFO] Class     : epoch16 @train: loss = 0.02632816961656014
+[INFO] Coordinate: epoch16 @train: loss = 0.06268255899194627
+[INFO] Angle     : epoch16 @train: loss = 0.33646138507044976
+[INFO] Class     : epoch16 @train: acc  = 1.0
+█[INFO] Total     : epoch16 @test : loss = 0.39847668612168896
+[INFO] Class     : epoch16 @test : loss = 0.36185799312726075
+[INFO] Coordinate: epoch16 @test : loss = 0.3019070018289818
+[INFO] Angle     : epoch16 @test : loss = 0.5283434544172552
+[INFO] Class     : epoch16 @test : acc  = 0.9999189814814815
+█[INFO] Total     : epoch17 @train: loss = 0.1681176926733719
+[INFO] Class     : epoch17 @train: loss = 0.02474239261355251
+[INFO] Coordinate: epoch17 @train: loss = 0.06220507295284834
+[INFO] Angle     : epoch17 @train: loss = 0.3363522851011819
+[INFO] Class     : epoch17 @train: acc  = 1.0
+█[INFO] Total     : epoch17 @test : loss = 0.3123171179658837
+[INFO] Class     : epoch17 @test : loss = 0.23442674164349833
+[INFO] Coordinate: epoch17 @test : loss = 0.22139059197571542
+[INFO] Angle     : epoch17 @test : loss = 0.44544785817464194
+[INFO] Class     : epoch17 @test : acc  = 1.0
+█[INFO] Total     : epoch18 @train: loss = 0.16780120159188908
+[INFO] Class     : epoch18 @train: loss = 0.023570149168113452
+[INFO] Coordinate: epoch18 @train: loss = 0.06181064067253222
+[INFO] Angle     : epoch18 @train: loss = 0.33634715841876134
+[INFO] Class     : epoch18 @train: acc  = 1.0
+█[INFO] Total     : epoch18 @test : loss = 0.48992899627321296
+[INFO] Class     : epoch18 @test : loss = 0.4896676464161525
+[INFO] Coordinate: epoch18 @test : loss = 0.4136544867315226
+[INFO] Angle     : epoch18 @test : loss = 0.5853374583025773
+[INFO] Class     : epoch18 @test : acc  = 1.0
+█[INFO] Total     : epoch19 @train: loss = 0.16762420539226797
+[INFO] Class     : epoch19 @train: loss = 0.022840411209553067
+[INFO] Coordinate: epoch19 @train: loss = 0.06158114113172309
+[INFO] Angle     : epoch19 @train: loss = 0.33637397719754114
+[INFO] Class     : epoch19 @train: acc  = 1.0
+█[INFO] Total     : epoch19 @test : loss = 0.3609144310156504
+[INFO] Class     : epoch19 @test : loss = 0.29527246941191454
+[INFO] Coordinate: epoch19 @test : loss = 0.2816659141642352
+[INFO] Angle     : epoch19 @test : loss = 0.47638555732038285
+[INFO] Class     : epoch19 @test : acc  = 1.0
+█[INFO] Total     : epoch20 @train: loss = 0.16739950962364675
+[INFO] Class     : epoch20 @train: loss = 0.02191848973614267
+[INFO] Coordinate: epoch20 @train: loss = 0.06130513020584153
+[INFO] Angle     : epoch20 @train: loss = 0.3363877321076062
+[INFO] Class     : epoch20 @train: acc  = 1.0
+█[INFO] Total     : epoch20 @test : loss = 0.32255711174673507
+[INFO] Class     : epoch20 @test : loss = 0.254722204274084
+[INFO] Coordinate: epoch20 @test : loss = 0.22828579441540772
+[INFO] Angle     : epoch20 @test : loss = 0.45735497367050915
+[INFO] Class     : epoch20 @test : acc  = 1.0
+█[INFO] Total     : epoch21 @train: loss = 0.16727196584559148
+[INFO] Class     : epoch21 @train: loss = 0.02144319249653361
+[INFO] Coordinate: epoch21 @train: loss = 0.06114992449163563
+[INFO] Angle     : epoch21 @train: loss = 0.33638170305639503
+[INFO] Class     : epoch21 @train: acc  = 1.0
+█[INFO] Total     : epoch21 @test : loss = 0.28672426541646323
+[INFO] Class     : epoch21 @test : loss = 0.22296945488132122
+[INFO] Coordinate: epoch21 @test : loss = 0.18550301190051768
+[INFO] Angle     : epoch21 @test : loss = 0.42918952330946925
+[INFO] Class     : epoch21 @test : acc  = 1.0
+█[INFO] Total     : epoch22 @train: loss = 0.16704715327877137
+[INFO] Class     : epoch22 @train: loss = 0.020645033050742414
+[INFO] Coordinate: epoch22 @train: loss = 0.06087384708225727
+[INFO] Angle     : epoch22 @train: loss = 0.3363643082065715
+[INFO] Class     : epoch22 @train: acc  = 1.0
+█[INFO] Total     : epoch22 @test : loss = 0.5631054778893788
+[INFO] Class     : epoch22 @test : loss = 0.5635779251758423
+[INFO] Coordinate: epoch22 @test : loss = 0.40010809446167617
+[INFO] Angle     : epoch22 @test : loss = 0.7667340752151277
+[INFO] Class     : epoch22 @test : acc  = 1.0
+█[INFO] Total     : epoch23 @train: loss = 0.16692427813799846
+[INFO] Class     : epoch23 @train: loss = 0.02025733241526824
+[INFO] Coordinate: epoch23 @train: loss = 0.06065451743909055
+[INFO] Angle     : epoch23 @train: loss = 0.33642820755226743
+[INFO] Class     : epoch23 @train: acc  = 1.0
+█[INFO] Total     : epoch23 @test : loss = 0.5973133376489083
+[INFO] Class     : epoch23 @test : loss = 0.5593558069965284
+[INFO] Coordinate: epoch23 @test : loss = 0.4396552508800394
+[INFO] Angle     : epoch23 @test : loss = 0.8038753103050921
+[INFO] Class     : epoch23 @test : acc  = 1.0
+█[INFO] Total     : epoch24 @train: loss = 0.16681601016057862
+[INFO] Class     : epoch24 @train: loss = 0.019732347257538804
+[INFO] Coordinate: epoch24 @train: loss = 0.06057184845364342
+[INFO] Angle     : epoch24 @train: loss = 0.336392120582362
+[INFO] Class     : epoch24 @train: acc  = 1.0
+█[INFO] Total     : epoch24 @test : loss = 0.7207881812834077
+[INFO] Class     : epoch24 @test : loss = 0.7238921926072281
+[INFO] Coordinate: epoch24 @test : loss = 0.5396669606781668
+[INFO] Angle     : epoch24 @test : loss = 0.9464136838912964
+[INFO] Class     : epoch24 @test : acc  = 1.0
+█[INFO] Total     : epoch25 @train: loss = 0.16666319293694365
+[INFO] Class     : epoch25 @train: loss = 0.018984819282518908
+[INFO] Coordinate: epoch25 @train: loss = 0.06044369834578699
+[INFO] Angle     : epoch25 @train: loss = 0.33635714751564794
+[INFO] Class     : epoch25 @train: acc  = 1.0
+█[INFO] Total     : epoch25 @test : loss = 0.5301242438869344
+[INFO] Class     : epoch25 @test : loss = 0.5038591144373641
+[INFO] Coordinate: epoch25 @test : loss = 0.3449239288767179
+[INFO] Angle     : epoch25 @test : loss = 0.7681909073558119
+[INFO] Class     : epoch25 @test : acc  = 1.0
+█[INFO] Total     : epoch26 @train: loss = 0.16654310308189857
+[INFO] Class     : epoch26 @train: loss = 0.018513302970677614
+[INFO] Coordinate: epoch26 @train: loss = 0.0603144428304707
+[INFO] Angle     : epoch26 @train: loss = 0.3363363716751337
+[INFO] Class     : epoch26 @train: acc  = 1.0
+█[INFO] Total     : epoch26 @test : loss = 0.45604704659846096
+[INFO] Class     : epoch26 @test : loss = 0.410796894515968
+[INFO] Coordinate: epoch26 @test : loss = 0.27789395100747544
+[INFO] Angle     : epoch26 @test : loss = 0.6900509348346128
+[INFO] Class     : epoch26 @test : acc  = 1.0
+█[INFO] Total     : epoch27 @train: loss = 0.16649597299595673
+[INFO] Class     : epoch27 @train: loss = 0.018152921739965678
+[INFO] Coordinate: epoch27 @train: loss = 0.0602761757068543
+[INFO] Angle     : epoch27 @train: loss = 0.3363564745419555
+[INFO] Class     : epoch27 @train: acc  = 1.0
+█[INFO] Total     : epoch27 @test : loss = 0.3754308582180076
+[INFO] Class     : epoch27 @test : loss = 0.31541869352416446
+[INFO] Coordinate: epoch27 @test : loss = 0.22893978557032016
+[INFO] Angle     : epoch27 @test : loss = 0.5735477252966827
+[INFO] Class     : epoch27 @test : acc  = 1.0
+█[INFO] Total     : epoch28 @train: loss = 0.16639352385989495
+[INFO] Class     : epoch28 @train: loss = 0.017169651656877248
+[INFO] Coordinate: epoch28 @train: loss = 0.060266296449117365
+[INFO] Angle     : epoch28 @train: loss = 0.33635851902266345
+[INFO] Class     : epoch28 @train: acc  = 1.0
+█[INFO] Total     : epoch28 @test : loss = 0.3605493827412526
+[INFO] Class     : epoch28 @test : loss = 0.32150536893685866
+[INFO] Coordinate: epoch28 @test : loss = 0.22667592995696598
+[INFO] Angle     : epoch28 @test : loss = 0.5376521905263265
+[INFO] Class     : epoch28 @test : acc  = 1.0
+█[INFO] Total     : epoch29 @train: loss = 0.16632181877891222
+[INFO] Class     : epoch29 @train: loss = 0.016804362271472605
+[INFO] Coordinate: epoch29 @train: loss = 0.060209746964068875
+[INFO] Angle     : epoch29 @train: loss = 0.3363412649888131
+[INFO] Class     : epoch29 @train: acc  = 1.0
+█[INFO] Total     : epoch29 @test : loss = 0.23976589631703166
+[INFO] Class     : epoch29 @test : loss = 0.13840819529205975
+[INFO] Coordinate: epoch29 @test : loss = 0.11652955487370491
+[INFO] Angle     : epoch29 @test : loss = 0.41915074148111875
+[INFO] Class     : epoch29 @test : acc  = 1.0
+█[INFO] Total     : epoch30 @train: loss = 0.16624296714241307
+[INFO] Class     : epoch30 @train: loss = 0.016371126315142544
+[INFO] Coordinate: epoch30 @train: loss = 0.06012453415379342
+[INFO] Angle     : epoch30 @train: loss = 0.33635896115253366
+[INFO] Class     : epoch30 @train: acc  = 1.0
+█[INFO] Total     : epoch30 @test : loss = 0.23859278630051348
+[INFO] Class     : epoch30 @test : loss = 0.14023494023001856
+[INFO] Coordinate: epoch30 @test : loss = 0.1194794417048494
+[INFO] Angle     : epoch30 @test : loss = 0.4120739191770554
+[INFO] Class     : epoch30 @test : acc  = 1.0
